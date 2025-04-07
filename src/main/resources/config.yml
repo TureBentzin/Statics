@@ -1,0 +1,5 @@
+# Statics Config
+# This file lets you define static placeholders.
+
+placeholders:
+   demo: "<rainbow>Statics works!</rainbow>"
