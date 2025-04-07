@@ -1,0 +1,7 @@
+name: Statics
+version: '1.0-SNAPSHOT'
+main: net.juligames.Statics
+api-version: '1.21'
+prefix: Statics
+load: STARTUP
+authors: [ Ture Bentzin ]
