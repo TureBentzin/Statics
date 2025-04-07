@@ -5,3 +5,10 @@ api-version: '1.21'
 prefix: Statics
 load: STARTUP
 authors: [ Ture Bentzin ]
+
+dependencies:
+  server:
+    MiniPlaceholders:
+      load: AFTER
+      required: true
+      join-classpath: true
