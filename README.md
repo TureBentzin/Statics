@@ -1,5 +1,5 @@
 # Statics
-This is an Alpu project. Please review the [ALPU License](LICENSE.md) for details on usage and distribution.
+It´s small - it works. 
 
 ## Usage
 
